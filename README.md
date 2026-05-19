@@ -51,11 +51,11 @@ Currently focused on **Agentic AI** and **LLM Systems Engineering**.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LVVignesh&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVVignesh&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
+## 📊 GitHub Stats
 
+![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LVVignesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LVVignesh&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📬 Let's Connect
