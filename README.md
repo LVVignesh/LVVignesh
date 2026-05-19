@@ -53,8 +53,19 @@ Currently focused on **Agentic AI** and **LLM Systems Engineering**.
 
 ## 📊 GitHub Stats
 
+## 📈 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=LVVignesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVVignesh&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+![GitHub Activity Graph](https://github-contribution-stats.vercel.app/api/?username=LVVignesh)
+
+---
+
+## 🏆 Achievements
+
+- 🔥 **273 contributions** in the last year
+- 🚀 **16 public repositories** 
+- 🤖 **6 production AI systems** deployed
+- ✅ **Live demos** on HuggingFace Spaces
+- 🧪 **pytest suites** with 8/8 tests passing
 
 ---
 
