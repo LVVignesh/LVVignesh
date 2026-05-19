@@ -49,18 +49,18 @@ Currently focused on **Agentic AI** and **LLM Systems Engineering**.
 
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LVVignesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LVVignesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVVignesh&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LVVignesh&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vignesh-lv-a682b7311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-lv-a682b7311)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/lvvignesh2122)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lvvignesh2122@gmail.com)
 
