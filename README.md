@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hey, I'm Vignesh LV 👋
 
-<!--
-**LVVignesh/LVVignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Building Autonomous Systems & LLM Pipelines
 
-Here are some ideas to get you started:
+I build production-grade AI systems — multi-agent orchestration,
+RAG pipelines, and autonomous decision engines.
+Currently focused on **Agentic AI** and **LLM Systems Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+| Project | What It Does | Live |
+|---|---|---|
+| [💰 FinSense](https://github.com/LVVignesh/FinSense-Quant-Agent) | 9-agent autonomous trading system with LLM orchestration & self-correction | [▶ Demo](https://huggingface.co/spaces/lvvignesh2122/FinSense-Quant-Agent) |
+| [🔍 Gemini RAG FastAPI](https://github.com/LVVignesh/gemini-rag-fastapi) | Production RAG system — Hybrid SQL + Vector retrieval, self-correcting agents | [▶ Demo](https://huggingface.co/lvvignesh2122) |
+| [🏥 HCP Agentic CRM](https://github.com/LVVignesh/HCP-Agentic-CRM-Intelligence) | LangGraph-powered CRM for Life Sciences with 5 specialized sales tools | — |
+| [🧠 Adaptive AI System](https://github.com/LVVignesh/Adaptive-AI-decision-intelligence-system) | AI that learns decision strategies from experience using memory & reflection | — |
+| [⛓️ Supply Chain Agent](https://github.com/LVVignesh/Supply-chain-sentinel-autonomous-enterprise-AI-agent) | Autonomous MAS for enterprise supply chain risk management | — |
+| [🎬 Netflix Recommender](https://github.com/LVVignesh/Netflix-Hybrid-Recommender) | Hybrid engine — SVD/K-Means + XGBoost solving the Cold Start problem | — |
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & LLM**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189C34?style=flat)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LVVignesh&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVVignesh&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vignesh-lv-a682b7311)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/lvvignesh2122)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lvvignesh2122@gmail.com)
+
+---
+
+*273 contributions last year | Actively building in public 🔨*
