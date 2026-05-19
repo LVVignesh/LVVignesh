@@ -49,14 +49,7 @@ Currently focused on **Agentic AI** and **LLM Systems Engineering**.
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-contribution-stats.vercel.app/api/?username=LVVignesh)
-
+## 📈 GitHub Stats Activity
 ---
 
 ## 🏆 Achievements
