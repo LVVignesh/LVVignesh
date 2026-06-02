@@ -30,6 +30,8 @@ vignesh = {
         "🥇 Meta PyTorch Hackathon — Phase 2 Clearance (Solo)"
     ]
 }
+```
+
 ---
 
 ## 🚀 Featured Projects
